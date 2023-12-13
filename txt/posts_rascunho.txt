@@ -1,0 +1,4 @@
+1;Eu sou uma postagem regular [id=1];66416;90393;2023-05-05;1
+2;Eu sou uma postagem regular [id=2];22408;26115;2023-10-18;0
+3;Eu sou uma postagem avançada [id=3];76948;42127;2023-11-01;1;#id3;50
+4;Eu sou uma postagem avançada [id=4];90758;15056;2023-02-10;0;#id4;50
