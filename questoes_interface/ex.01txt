@@ -1,0 +1,3 @@
+Nas linguagens orientadas a objetos, não e possivel instancia-las diretamente.
+Isso ocorre pois as classes abstratas funcionam como modeelos para outras classes enão como uma entidade concreta que deve ser instanciada, além de que,
+elas geralmente contêm métodos e propriedades que são obrigados a serem implementados pelas subclasses, e não implementadas diretamanete na classe abstrata.

@@ -1,0 +1,6 @@
+Lidando com o tipo da classe abstrata FiguraGeometrica como uma interface de array,
+embora não seja possivel criar uma instância direta de uma classe abstrata usando o operador new, 
+é possível criar instâncias de classes derivadas e usá-las onde o tipo abstrato é esperado.
+
+Neste caso, cria-se um array que pode armazenar objetos que são instâncias de classes que derivam de FiguraGeometrica. 
+Isso é possível porque as classes derivadas podem ser instanciadas, e a declaração de array está dizendo que ele conterá objetos do tipo FiguraGeometrica ou de qualquer classe que herde dela.
