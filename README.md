@@ -1,7 +1,7 @@
 
 
 # --o Instruções
-#### --o Nome da equipe: `Gabriel Almeida e Lucas Farias`
+#### --o Nome da equipe: `Gabriel Silva e Lucas Farias`
 #### --o Vídeo referente às exceções e interfaces:
 ```
 https://drive.google.com/file/d/10D5vhY5wzPM-aTkej0JSFpUJsasDRsZT/view?usp=sharing
